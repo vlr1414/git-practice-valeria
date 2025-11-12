@@ -13,3 +13,7 @@
 ## Автор
 
 Роденко Валерія, група П-32
+
+## Proof (screenshot)
+
+![SSH check](screenshots/ssh-check.png)
